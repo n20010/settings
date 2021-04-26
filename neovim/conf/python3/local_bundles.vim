@@ -24,3 +24,5 @@ Plug 'scrooloose/nerdtree'
 " Edit textobjects
 ""------------------------------------
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-repeat'
+Plug 'vim-highlightedyank'
