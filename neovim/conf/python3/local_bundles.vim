@@ -16,13 +16,8 @@ set helplang=ja,en " 日本語ヘルプ
 Plug 'scrooloose/nerdtree'
 
 ""------------------------------------
-" Filesearch
-""------------------------------------
-"Plug 'junegunn/fzf.vim'
-
-""------------------------------------
 " Edit textobjects
 ""------------------------------------
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
-Plug 'vim-highlightedyank'
+Plug 'machakann/vim-highlightedyank'
