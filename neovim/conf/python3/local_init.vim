@@ -79,3 +79,6 @@ inoremap <silent> <C-j> <ESC>
 
 " visual時vで行末まで選択
 vnoremap v $h
+
+" NERDTree起動ショートカット
+nnoremap <silent><C-t> :NERDTreeToggle<CR>
